@@ -22,3 +22,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore Cat & Dog classification image dataset
+# (large image files; already included here so they aren't tracked by Git)
+# dl/CNN/Cat & Dog classification/images/

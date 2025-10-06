@@ -91,3 +91,38 @@ word to number conversion
    ohe
 
 bag of words:
+
+i love dog
+i love cat
+
+bag= i love dog cat (4)
+
+vector=[1,1,1,0]
+v2=[1,1,0,1]
+
+adv:
+simple easy
+
+dis: out of vac
+
+this is gd movie ,
+this is nt a gd movie
+
+2. N grams:
+   uni gram , bi gram , tri..
+
+tokenisation
+disad: out of vocu
+dimension increase acc dec
+
+3. TF-IDF:
+
+term freq inverse document freq
+
+find unique
+find tf table
+idf cl
+
+res=tf\*idf
+
+custom features: research ongoing

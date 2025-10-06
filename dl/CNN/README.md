@@ -22,3 +22,12 @@ RGB :
 thelium- flatten multi d in 1 d
 
 https://deeplizard.com/resource/pavq7noze2
+
+#NLP project
+
+steps:
+
+1. create ve
+2. create requirements.txt
+3. import data here
+   4.create jupityer file

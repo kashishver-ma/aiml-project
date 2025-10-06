@@ -1,0 +1,17 @@
+how to use files in python ? 
+
+os is module in python.
+
+import os
+
+get cws - current working dir
+chdir- change dir 
+listdir
+mkdir 
+rmdir
+path.exist
+isfile
+isdir
+
+file handling
+oops 
