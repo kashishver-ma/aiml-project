@@ -169,6 +169,12 @@ challenge in training deep neural networks where gradients become extremely smal
 
 while training model, loss increase and accuracy decrease - vanishing gradient problem
 
+gradient decent  diagram me  loss minimise nd acc increase krna hota hai
+
+u shaped diagram
+
+if point is in global minima,
+
 imp how to overcome this ? need optimiser -graph
 
 
