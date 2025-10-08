@@ -31,3 +31,7 @@ steps:
 2. create requirements.txt
 3. import data here
    4.create jupityer file
+
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
+project 2 on cnn
