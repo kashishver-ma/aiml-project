@@ -118,3 +118,12 @@ implementation:
 openai use also through lanchain and langraph
 
 huging face model also through it
+
+Prompt engineering:
+
+test:
+
+Activation function and ensemble learning
+
+request library-.> use to fetch
+request lib used to make llm model deployment
