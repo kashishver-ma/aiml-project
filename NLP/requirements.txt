@@ -1,0 +1,9 @@
+spacy
+nltk
+contractions
+textblob
+SpeechRecognition
+PyAudio 
+pandas 
+numpy
+scikit-learn

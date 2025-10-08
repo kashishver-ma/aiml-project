@@ -1,3 +1,5 @@
+# Need GPU to run this
+
 # Neural Networks and Deep Learning Guide
 
 ## Introduction
