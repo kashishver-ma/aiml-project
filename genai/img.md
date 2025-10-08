@@ -127,3 +127,5 @@ Activation function and ensemble learning
 
 request library-.> use to fetch
 request lib used to make llm model deployment
+
+new data
