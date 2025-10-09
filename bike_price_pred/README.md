@@ -286,7 +286,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Kashish**
 
 - GitHub: [kashishver-ma](https://github.com/kashishver-ma)
 - LinkedIn: [kashish](https://www.linkedin.com/in/kashish-verma-7756a62b6)
