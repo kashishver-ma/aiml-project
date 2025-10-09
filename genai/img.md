@@ -87,6 +87,8 @@ down olama
 cmd:
 olama list
 
+down model
+
 olama run llama2 -> down model and run it
 lama model will run
 
@@ -129,3 +131,74 @@ request library-.> use to fetch
 request lib used to make llm model deployment
 
 new data
+
+<!-- >.............................................
+
+ -->
+
+#app.py
+
+file system for olama lain chain
+
+req
+.env
+envir virtual
+
+use lanchain api
+
+import req nd all
+we do all this with langchain
+
+...........................................
+
+# basic.ipynb
+
+but we can use olama without this too
+
+using lanchain_ollama lbary -> library in python
+
+.................................................
+
+openai : provide models
+like gpt
+
+latest gpt-5
+
+gernative perdict transform
+paid
+/............................................./
+
+alternative free api: groq AI (free/paid both)
+
+https://groq.com/
+
+https://console.groq.com/keys
+
+create api and paste in .env
+
+groq ai:
+groq qai
+langraph
+hugging face
+all these models
+
+breif of generative ai :
+
+encoder and decoder based architecture unserstanding
+= transformer
+
+encode : name to number
+
+type of transformer
+encoder only
+encoder decoder
+decorder only
+
+conpare gpt4 gpt 3.5 lamma 2 lama 3.1
+
+open source tool-grok olama n8m groq q ai hugging face
+prompt enginering
+
+read-RAG
+requirement augemnted group
+lanchain
