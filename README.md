@@ -20,3 +20,13 @@ A machine learning web application that predicts used bike prices using **Linear
 
 ---
 
+## 🎓 Key Learnings
+
+- Data preprocessing with Pandas and NumPy
+- Comparing multiple ML algorithms
+- Model evaluation and selection
+- Flask web application development
+- Model deployment and serialization
+- Feature encoding techniques
+- Building user-friendly interfaces
+
