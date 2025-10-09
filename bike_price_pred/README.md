@@ -288,8 +288,8 @@ Contributions are welcome! Please follow these steps:
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/kashishver-ma)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/kashish-verma-7756a62b6)
+- GitHub: [kashishver-ma](https://github.com/kashishver-ma)
+- LinkedIn: [kashish](https://www.linkedin.com/in/kashish-verma-7756a62b6)
 
 ---
 
