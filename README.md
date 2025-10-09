@@ -1,6 +1,6 @@
 # ML PROJECT
 
-# 🚲 Bike Price Prediction System
+# 🚲 [Bike Price Prediction System](https://github.com/kashishver-ma/aiml-project/edit/main/bike_price_pred/)
 
 A machine learning web application that predicts used bike prices using **Linear Regression** and **Random Forest** models with Flask deployment.
 
@@ -30,3 +30,5 @@ A machine learning web application that predicts used bike prices using **Linear
 - Feature encoding techniques
 - Building user-friendly interfaces
 
+
+###  To know more : [bike prediction](https://github.com/kashishver-ma/aiml-project/edit/main/bike_price_pred/)
