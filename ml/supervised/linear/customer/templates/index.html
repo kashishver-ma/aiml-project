@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Customer</title>
+  </head>
+  <body>
+    <h1>Welcome to Customer's Service Page</h1>
+    <div>
+      Enter Your details :
+      <br />
+      <form action="{{ url_for('index') }}" method="post">
+        <!-- Type of Travel -->
+        <label for="tot">Type of Travel</label>
+        <select name="tot">
+          <option>Personal Travel</option>
+          <option>Business travel</option>
+        </select>
+
+        <!-- Class -->
+        <label for="classs">Class</label>
+        <select name="classs">
+          <option>Eco</option>
+          <option>Eco Plus</option>
+          <option>Business</option>
+        </select>
+
+        <!-- Satisfaction -->
+        <label for="satisfaction">Satisfaction</label>
+        <select name="satisfaction">
+          <option>satisfied</option>
+          <option>neutral or dissatisfied</option>
+        </select>
+
+        <!-- <label>Age:</label>
+        <input type="number" name="Age" min="0" max="100" /><br /><br /> -->
+
+        <!-- <label>Flight Distance:</label>
+        <input type="number" name="FlightDistance" min="0" /><br /><br /> -->
+
+        <label>Inflight Entertainment (1-5):</label>
+        <input
+          type="number"
+          name="InflightEntertainment"
+          min="1"
+          max="5"
+        /><br /><br />
+
+        <label>Baggage Handling (1-5):</label>
+        <input
+          type="number"
+          name="BaggageHandling"
+          min="1"
+          max="5"
+        /><br /><br />
+
+        <label>Cleanliness (1-5):</label>
+        <input type="number" name="Cleanliness" min="1" max="5" /><br /><br />
+
+        <label>Departure Delay (minutes):</label>
+        <input type="number" name="DepartureDelay" min="0" /><br /><br />
+
+        <label>Arrival Delay (minutes):</label>
+        <input type="number" name="ArrivalDelay" min="0" /><br /><br />
+
+        <button type="submit">Predict</button>
+      </form>
+
+      <p class="message"><b>{{ message }}</b></p>
+    </div>
+  </body>
+</html>
